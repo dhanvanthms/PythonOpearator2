@@ -1,0 +1,10 @@
+x=input(("enter a number1 "))
+y=input(("enter a number2 "))
+z=input(("enter a number3 "))
+t=x
+x=y
+y=z
+z=t3
+print("x = new swaped value of number 1 ",x)
+print("y = new swaped value of number 2 ",y)
+print("z = new swaped value of number 3 ", z)
